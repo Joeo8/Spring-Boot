@@ -1,0 +1,33 @@
+${AnsiColor.BRIGHT_YELLOW}
+
+
+          JJJJJJJJJJJ               lllllll lllllll
+          J:::::::::J               l:::::l l:::::l
+          J:::::::::J               l:::::l l:::::l
+          JJ:::::::JJ               l:::::l l:::::l
+            J:::::J   ooooooooooo    l::::l  l::::lyyyyyyy           yyyyyyy
+            J:::::J oo:::::::::::oo  l::::l  l::::l y:::::y         y:::::y
+            J:::::Jo:::::::::::::::o l::::l  l::::l  y:::::y       y:::::y
+            J:::::jo:::::ooooo:::::o l::::l  l::::l   y:::::y     y:::::y
+            J:::::Jo::::o     o::::o l::::l  l::::l    y:::::y   y:::::y
+JJJJJJJ     J:::::Jo::::o     o::::o l::::l  l::::l     y:::::y y:::::y
+J:::::J     J:::::Jo::::o     o::::o l::::l  l::::l      y:::::y:::::y
+J::::::J   J::::::Jo::::o     o::::o l::::l  l::::l       y:::::::::y
+J:::::::JJJ:::::::Jo:::::ooooo:::::ol::::::ll::::::l       y:::::::y
+ JJ:::::::::::::JJ o:::::::::::::::ol::::::ll::::::l        y:::::y
+   JJ:::::::::JJ    oo:::::::::::oo l::::::ll::::::l       y:::::y
+     JJJJJJJJJ        ooooooooooo   llllllllllllllll      y:::::y
+                                                         y:::::y
+                                                        y:::::y
+                                                       y:::::y
+                                                      y:::::y
+                                                     yyyyyyy
+
+
+${AnsiColor.BRIGHT_BLUE}
+spring−boot.version:${spring-boot.version}
+spring−boot.formatted.version:${spring-boot.formatted-version}
+
+
+
+
